@@ -30,7 +30,6 @@ LOCAL_STATIC_LIBRARIES :=
 LOCAL_SHARED_LIBRARIES := libcutils libutils \
 	libui \
 	libhardware \
-	libandroid_runtime \
 	libbinder \
 	libmedia
 
